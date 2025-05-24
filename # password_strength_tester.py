@@ -61,3 +61,4 @@ elif score == 3 or score == 4:
     print("Strength: Moderate - Almost There..")
 elif score >= 5:
     print("Strength: STRONG - Congratulations!")
+    
