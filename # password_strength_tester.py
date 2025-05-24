@@ -1,5 +1,5 @@
 # Password Strength Tester
-# Author: Siraj A
+# Author: Siraj Abdul-Shahid
 
 #User Password Prompt
 password = input("Please enter your password: ")
