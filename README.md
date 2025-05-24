@@ -31,14 +31,14 @@ This is a beginner-level Python script that tests the strength of a password bas
 
 ## 📄 Example Output
 
-Please enter your password: Google'$#1ITTeam
-You entered: Google'$#1ITTeam
-Password meets the minimum requirement. 16 of 8.
-Contains uppercase letter: True
-Contains lowercase letter: True
-Contains digit: True
-Contains Symbol: True
-Password strength score: 5 out of 5
+Please enter your password: Google'$#1ITTeam  
+You entered: Google'$#1ITTeam  
+Password meets the minimum requirement. 16 of 8.  
+Contains uppercase letter: True  
+Contains lowercase letter: True  
+Contains digit: True  
+Contains Symbol: True  
+Password strength score: 5 out of 5  
 Strength: STRONG - Congratulations!
 
 ---
